@@ -9,14 +9,14 @@ Dividi este trabalho em duas etapas, sendo a primeira a exploração de dados po
 ## 1. SQL
 Utilizei o Microsoft SQL Server para consultar os dados. Importando o dataset para a database "COVID" criada para simular uma base de dados real de SQL. Separei dois arquivos para representar um pouco do trabalho que foi feito nesta etapa:
 
-- [[SQL] queries_dashboard.sql](https://) Aqui estão as consultas que selecionam os dados que vão constitutir os gráficos no Tableau.
-- [[SQL] queries_insights.sql](https://) Aqui estão algumas consultas que fiz por curiosidade enquanto explorava o dataset (estas não foram para o dashboard).
+- [[SQL] queries_dashboard.sql](https://github.com/pedrocostanunes/Tableu_SQL-Covid_Tracker/blob/main/%5BSQL%5D%20queries_dashboard.sql) Aqui estão as consultas que selecionam os dados que vão constitutir os gráficos no Tableau.
+- [[SQL] queries_insights.sql](https://github.com/pedrocostanunes/Tableu_SQL-Covid_Tracker/blob/main/%5BSQL%5D%20queries_insights.sql) Aqui estão algumas consultas que fiz por curiosidade enquanto explorava o dataset (estas não foram para o dashboard).
 
 ## 2. Tableau
 Conforme explicado na introdução deste README, utilizei o Tableau Public para criar um painel que explicite o número de casos de COVID-19 no mundo em comparação com a população mundial. Mostrando que quase 10% das pessoas do mundo foram infectadas pelo coronavírus. Para visualizar o dashboard, você pode [clicar aqui](https://public.tableau.com/shared/22KNBQGHY?:display_count=n&:origin=viz_share_link), ou utilizar as opções de arquivos que estão neste repositório:
 
-- [[Tableau] Dashboard_Covid.html](http://) Como o Tableau Public não permite salvar os arquivos, criei este .html que você pode baixar no seu PC e vizualizar o Dashboard em seu navegador.
-- [[Tableau] Preview_Dashboard.png](http://) Opção de preview do Dashboard (imagem estática) para quem tem pressa e pouco tempo a perder.
+- [[Tableau] Dashboard_Covid.html](https://github.com/pedrocostanunes/Tableu_SQL-Covid_Tracker/blob/main/%5BTableau%5D%20Dashboard_Covid.html) Como o Tableau Public não permite salvar os arquivos, criei este .html que você pode baixar no seu PC e vizualizar o Dashboard em seu navegador.
+- [[Tableau] Preview_Dashboard.png](https://github.com/pedrocostanunes/Tableu_SQL-Covid_Tracker/blob/main/%5BTableau%5D%20Preview_Dashboard.png) Opção de preview do Dashboard (imagem estática) para quem tem pressa e pouco tempo a perder.
 
 
 ## Tecnologias Utilizadas neste Projeto
