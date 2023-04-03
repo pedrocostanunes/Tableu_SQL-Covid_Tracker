@@ -1,8 +1,9 @@
 # COVID-19 Tracker | SQL Queries e Tableau Dashboard
+*Nota: [clique aqui](https://public.tableau.com/shared/22KNBQGHY?:display_count=n&:origin=viz_share_link) para visualizar o Dashboard.*
 
 Olá! 
 
-Bem-vinde a este projeto de portfólio que engloba queries em SQL para a montagem de dashboard no tableau. O objetivo do projeto foi montar um data viz sobre o número e a % de infectados por COVID-19 no mundo até março de 2023. O dataset utilizado foi o [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths), que contempla dados atualizados de casos e óbitos por COVID-19 em todo o mundo. 
+Bem-vinde a este projeto de portfólio que engloba queries em **SQL** e montagem de dashboard no **Tableau**. O objetivo do projeto foi montar um data viz sobre o número e a % de infectados por COVID-19 no mundo até março de 2023. O dataset utilizado foi o [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths), que contempla dados atualizados de casos e óbitos por COVID-19 em todo o mundo. 
 
 Dividi este trabalho em duas etapas, sendo a primeira a exploração de dados por **SQL** queries. E a segunda, uma montagem de dashboard no **Tableau** Public importando os dados das queries e transformando-as em gráficos para vizualização.
 
